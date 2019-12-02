@@ -27,6 +27,9 @@ namespace AutonomniRizeni
                 Sviti = false;
             }
         }
-        public RidiciCentrum(AutonomniAuto elon) : base (elon.Rychlost, elon.DelkaTrasy, elon.trasaStav, elon.trasaDruh){}
+        public RidiciCentrum(AutonomniAuto elon) : base (elon.Rychlost, elon.DelkaTrasy, elon.trasaStav, elon.trasaDruh)
+        {
+
+        }
     }
 }

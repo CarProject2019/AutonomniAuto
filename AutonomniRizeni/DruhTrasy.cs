@@ -6,7 +6,6 @@ namespace AutonomniRizeni
 {
     public class DruhTrasy
     {
-        // public enum TrasaDruh {Tunel, Most, Common}
         public static TrasaDruh GetTrasa(int Vygenerovano)
         {
             if (Vygenerovano >= 50) return TrasaDruh.Common;
