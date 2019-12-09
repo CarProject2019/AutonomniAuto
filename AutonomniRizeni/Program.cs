@@ -14,4 +14,12 @@ namespace AutonomniRizeni
             RC.ZjistiTrasu();
         }
     }
+
+    public enum Svetla
+    {
+        Mlhova,
+        Dalkova,
+        Denni,
+        Potkavaci
+    }
 }
