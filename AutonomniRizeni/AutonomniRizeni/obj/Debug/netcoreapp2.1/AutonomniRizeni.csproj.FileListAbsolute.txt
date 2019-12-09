@@ -1,0 +1,11 @@
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\bin\Debug\netcoreapp2.1\AutonomniRizeni.deps.json
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\bin\Debug\netcoreapp2.1\AutonomniRizeni.runtimeconfig.json
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\bin\Debug\netcoreapp2.1\AutonomniRizeni.runtimeconfig.dev.json
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\bin\Debug\netcoreapp2.1\AutonomniRizeni.dll
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\bin\Debug\netcoreapp2.1\AutonomniRizeni.pdb
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\obj\Debug\netcoreapp2.1\AutonomniRizeni.csprojAssemblyReference.cache
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\obj\Debug\netcoreapp2.1\AutonomniRizeni.csproj.CoreCompileInputs.cache
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\obj\Debug\netcoreapp2.1\AutonomniRizeni.AssemblyInfoInputs.cache
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\obj\Debug\netcoreapp2.1\AutonomniRizeni.AssemblyInfo.cs
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\obj\Debug\netcoreapp2.1\AutonomniRizeni.dll
+Z:\PVA\MVOP\AutonomniRizeni\AutonomniRizeni\obj\Debug\netcoreapp2.1\AutonomniRizeni.pdb
